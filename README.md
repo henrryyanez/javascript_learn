@@ -1,1 +1,1 @@
-# javascript_learn
+# Practicas con javascript
