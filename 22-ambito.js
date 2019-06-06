@@ -7,7 +7,9 @@ function holaMundo(texto){
   var hola_mundo = "Texto dentro de funcion"
 
   console.log(texto);
-  console.log(numero);
+  console.log(numero.toString());
+  console.log(typeof numero.toString());
+  console.log(typeof numero);
   console.log(hola_mundo);
 }
 
